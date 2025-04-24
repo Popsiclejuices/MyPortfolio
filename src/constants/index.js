@@ -178,7 +178,7 @@ const expCards = [
     imgPath: "/images/exp3.png",
     logoPath: "/images/logo3.png",
     title: "PERN Stack Developer",
-    date: "March 2019 - May 2020",
+    date: "March 2024 - Present",
     responsibilities: [
       "Built cross-platform web apps using PERN Stac, integrating with Metrobank Strong Program frontend services.",
       "Improved web app performance and user experience through code optimization and testing.",
