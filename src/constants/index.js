@@ -95,7 +95,7 @@ const techStackImgs = [
     imgPath: "/images/logos/react.png",
   },
   {
-    name: "Phyton Developer",
+    name: "PERN Developer",
     imgPath: "/images/logos/python.svg",
   },
   {
