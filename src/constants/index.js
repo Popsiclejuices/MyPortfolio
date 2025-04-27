@@ -95,8 +95,8 @@ const techStackImgs = [
     imgPath: "/images/logos/react.png",
   },
   {
-    name: "PERN Developer",
-    imgPath: "/images/logos/python.svg",
+    name: "Fullstack Developer",
+    imgPath: "/images/logos/fullstack.png",
   },
   {
     name: "Backend Developer",
@@ -120,8 +120,8 @@ const techStackIcons = [
     rotation: [0, 0, 0],
   },
   {
-    name: "Python Developer",
-    modelPath: "/models/python-transformed.glb",
+    name: "Fulstack Developer",
+    modelPath: "/models/full-stack.glb",
     scale: 0.8,
     rotation: [0, 0, 0],
   },
@@ -154,7 +154,7 @@ const expCards = [
     title: "Frontend Developer",
     date: "August 2022 - Present",
     responsibilities: [
-      "Developed and maintained a Portfolio for Myself using HTML, CSS, and Javascript.",
+      "Developed and create a simple Youtube using HTML, CSS, and Javascript.",
       "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
       "Optimized web applications for maximum speed and scalability.",
     ],
@@ -167,8 +167,8 @@ const expCards = [
     title: "Full Stack Developer",
     date: "June 2024 - February 2025",
     responsibilities: [
-      "Led the development of ArchiTech web applications, focusing on scalability.",
-      "Worked with backend to integrate APIs seamlessly with the frontend.",
+      "Participated in the development of ArchiTech web applications, focusing on scalability.",
+      "Worked with frontend and backend to integrate APIs seamlessly with the frontend.",
       "Contributed to open-source projects that were used with the Metrobank Strong ecosystem.",
     ],
   },
@@ -180,7 +180,7 @@ const expCards = [
     title: "PERN Stack Developer",
     date: "March 2024 - Present",
     responsibilities: [
-      "Built cross-platform web apps using PERN Stac, integrating with Metrobank Strong Program frontend services.",
+      "Built cross-platform web apps using PERN Stack, integrating with Metrobank Strong Program frontend services.",
       "Improved web app performance and user experience through code optimization and testing.",
       "Coordinated with the product team to implement features based on feedback.",
     ],
